@@ -9,6 +9,6 @@ def initialize(name)
 end
 
 def self.all 
-  @@all.name
+
 end
 end
