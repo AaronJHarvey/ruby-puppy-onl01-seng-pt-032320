@@ -13,7 +13,7 @@ def self.all
 end
 
 def self.print_all
- @all.print
+ self.print
 end
 
 
