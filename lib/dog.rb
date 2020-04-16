@@ -13,8 +13,6 @@ class Dog
   end
 
   def self.all
-    @@all.each do |d|
-      puts d.name
+    @@all 
     end
-  end
 end
