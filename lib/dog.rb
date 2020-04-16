@@ -23,6 +23,6 @@ end
 end
 
 def save 
-  @@all.push(name)
+  @@all << self
 end
 end
