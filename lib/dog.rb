@@ -12,8 +12,11 @@ def self.all
  @@all 
 end
 
+def self.clear_all
+@@all.clear_all
+end
+
 def self.print_all
- self.print
 end
 
 
