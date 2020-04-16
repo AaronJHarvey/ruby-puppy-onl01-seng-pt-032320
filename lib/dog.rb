@@ -18,7 +18,7 @@ class Dog
     
     def self.print_all 
       @@all.each do |name|
-puts @self
+puts @self.name
 end
 end
 end
